@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.beam:beam-runners-core-java:0.3.0-incubating-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/beam/beam-runners-core-java/0.3.0-incubating-SNAPSHOT/beam-runners-core-java-0.3.0-incubating-20160901.070507-32.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/beam/beam-runners-core-java/0.3.0-incubating-SNAPSHOT/beam-runners-core-java-0.3.0-incubating-20160901.070507-32-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/beam/beam-runners-core-java/0.3.0-incubating-SNAPSHOT/beam-runners-core-java-0.3.0-incubating-20160901.070507-32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
